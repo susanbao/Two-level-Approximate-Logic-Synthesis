@@ -1,0 +1,212 @@
+maxmal unit literal decreasing is 20
+complement the 1 's order 36 minterms with 1 error and 20 literal decreasing
+the all decreasing: 20
+running time: 59
+Real running time :0
+
+maxmal unit literal decreasing is 22
+complement the 1 's order 3277 minterms with 1 error and 22 literal decreasing
+the all decreasing: 22
+running time: 58
+Real running time :0
+
+maxmal unit literal decreasing is 17
+complement the 1 's order 2188 minterms with 1 error and 17 literal decreasing
+the all decreasing: 17
+running time: 58
+Real running time :0
+
+maxmal unit literal decreasing is 19
+the all order is 573
+complement the 1 's order 3806 minterms with 2 error and 38 literal decreasing
+the all decreasing: 38
+running time: 236
+Real running time :0
+
+maxmal unit literal decreasing is 19
+the all order is 573
+complement the 1 's order 3806 minterms with 2 error and 38 literal decreasing
+the all decreasing: 38
+running time: 244
+Real running time :0
+
+maxmal unit literal decreasing is 12
+complement the 1 's order 9759 minterms with 1 error and 12 literal decreasing
+the all decreasing: 12
+running time: 58
+Real running time :0
+
+change minterm:5
+change minterm:5
+change minterm:5
+change minterm:5
+change minterm:5
+change minterm:5
+change minterm:5
+change minterm:5
+change minterm:5
+change minterm:5
+change minterm:5
+change minterm:1
+change minterm:1
+change minterm:1
+change minterm:1
+change minterm:1
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:1
+change minterm:1
+change minterm:1
+change minterm:1
+change minterm:1
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:10
+change minterm:10
+change minterm:10
+change minterm:10
+change minterm:3
+change minterm:3
+change minterm:5
+change minterm:5
+change minterm:5
+change minterm:5
+change minterm:5
+change minterm:4
+change minterm:4
+change minterm:4
+change minterm:4
+change minterm:4
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:8
+change minterm:8
+change minterm:8
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:2
+change minterm:2
+change minterm:2
+change minterm:2
+change minterm:2
+change minterm:2
+change minterm:2
+change minterm:2
+change minterm:2
+change minterm:2
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:4
+change minterm:4
+change minterm:4
+change minterm:4
+change minterm:4
+change minterm:6
+change minterm:6
+change minterm:6
+change minterm:6
+change minterm:6
+change minterm:8
+change minterm:8
+change minterm:8
+change minterm:8
+change minterm:8
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:2
+change minterm:2
+change minterm:2
+change minterm:4
+change minterm:4
+change minterm:4
+change minterm:4
+change minterm:4
+change minterm:4
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:8
+change minterm:8
+change minterm:8
+change minterm:8
+change minterm:8
+change minterm:8
+change minterm:1
+change minterm:1
+change minterm:1
+change minterm:1
+change minterm:1
+change minterm:2
+change minterm:2
+change minterm:2
+change minterm:2
+change minterm:2
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:3
+change minterm:4
+change minterm:4
+change minterm:4
+change minterm:4
+change minterm:4
+change minterm:6
+change minterm:6
+change minterm:6
+change minterm:6
+change minterm:6
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
+change minterm:16
